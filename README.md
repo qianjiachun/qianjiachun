@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qianjiachun&show_icons=true&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qianjiachun&show_icons=true&theme=vue" />
   
 ### 🤗 Hi~
 - 🎈 兴趣使然的技术爱好者
