@@ -10,7 +10,7 @@
 
 
 
-### Technology Stack
+### 🖥️Technology Stack
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=qianjiachun&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
