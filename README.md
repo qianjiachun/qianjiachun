@@ -4,13 +4,13 @@
 ### 🤗 Hi~
 - 🎈 兴趣使然的技术爱好者
 - ✨ 理想是制作大众喜爱的产品
-- 🎮 一个玩的还不错的竞技游戏玩家<img src="https://img.shields.io/badge/ConterStrike-%23323330.svg?logo=Counter-Strike&logoColor=white&style=flat-square">
+- 🎮 一个玩的还不错的竞技游戏玩家
 - 🤔 Just do what you want
 - ✉ 189964430@qq.com
 
 
 
-## Technology Stack
+### Technology Stack
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=qianjiachun&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/Golang-%23000000.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="python" /> <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white&style=flat-square" alt="C" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=flat-square" alt="php" /> <img src="https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-%23FF4734.svg?logoColor=white&style=flat-square" alt="易语言" /> <img src="https://img.shields.io/badge/MATLAB-%23FF9E2A.svg?logoColor=white&style=flat-square" alt="matlab" /> 
 
-
+<img src="https://img.shields.io/badge/ConterStrike-%23323330.svg?logo=Counter-Strike&logoColor=white&style=flat-square">
 
 
  
