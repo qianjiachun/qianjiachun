@@ -16,7 +16,7 @@
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=qianjiachun&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
-![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
 
 <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square" alt="Vue.js" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" />  <img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" /> <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white&style=flat-square" alt="SASS" /> <img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square" alt="npm" /> <img src="https://img.shields.io/badge/Electron-%231572b6.svg?logo=Electron&logoColor=white&style=flat-square" alt="Electron">
 
