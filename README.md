@@ -1,5 +1,5 @@
 
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qianjiachun&theme=vue" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qianjiachun&show_icons=true" />
 
 ### 🤗 Hi~
 - 🎈 兴趣使然的技术爱好者
