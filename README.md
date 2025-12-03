@@ -7,7 +7,6 @@
 - 🎮 一个玩的还不错的竞技游戏玩家
 - 💻 Full Vibe Coding
 - 😎 Just do what you want
-- 📭 189964430@qq.com
 
 
 
