@@ -13,7 +13,7 @@
 #### 🛠️Technology Stack
   
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=qianjiachun&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+<img align="right" src="https://stable-github-profile-trophy.vercel.app/?username=qianjiachun&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
