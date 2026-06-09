@@ -5,7 +5,6 @@
 - 🎈 兴趣使然的技术爱好者
 - ✨ 理想是制作大众喜爱的产品
 - 🎮 一个玩的还不错的竞技游戏玩家
-- 💻 Full Vibe Coding
 - 😎 Just do what you want
 
 
